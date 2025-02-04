@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: jdc
+Version: 0.0.9
+Summary: Dynamic classes for Jupyter notebooks.
+Home-page: https://github.com/alexhagen/jdc
+Author: Alex Hagen
+Author-email: alexhagen6@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+
+
+# JDC
+
+
